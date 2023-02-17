@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://erp-qa.inspirejo.com/login'</initValue>
+      <initValue>'http://www.testyou.in/Login.aspx'</initValue>
       <name>website</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

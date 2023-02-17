@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//input[@id=&quot;:rr:&quot;]</value>
+         <value>//input[@id=&quot;ctl00_CPHContainer_txtUserLogin&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,7 +17,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//input[@id=&quot;:rr:&quot;]</value>
-      <webElementGuid>7393ce80-ac94-492a-99d7-41e36932f13b</webElementGuid>
+      <value>//input[@id=&quot;ctl00_CPHContainer_txtUserLogin&quot;]</value>
+      <webElementGuid>92e070bb-99f9-4441-99bf-e8ca1e2f6d3a</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

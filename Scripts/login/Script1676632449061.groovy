@@ -19,9 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser(GlobalVariable.website)
 
-WebUI.setText(findTestObject('username'), GlobalVariable.username)
+WebUI.click(findTestObject('username'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('password'), GlobalVariable.password)
-
-WebUI.click(findTestObject('login'))
+WebUI.click(findTestObject('password'))
 
