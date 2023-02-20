@@ -27,3 +27,4 @@ WebUI.click(findTestObject('button-login'))
 
 WebUI.delay(3)
 
+WebUI.takeScreenshotAsCheckpoint('Check', FailureHandling.CONTINUE_ON_FAILURE)
